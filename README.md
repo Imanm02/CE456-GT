@@ -1,6 +1,6 @@
 # CE456-Game-Theory
 
-![Game Theory Banner]([link-to-banner-image](https://github.com/Imanm02/CE456-Game-Theory/blob/main/GameTheory-Background.png))
+![Game Theory Banner](https://github.com/Imanm02/CE456-Game-Theory/blob/main/GameTheory-Background.png)
 
 ## Overview
 
