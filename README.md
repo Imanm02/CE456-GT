@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains solutions to the assignments, practical exercises, course slides, and other useful resources for the CE456: Game Theory course at Sharif University of Technology, Spring 2024, taught by Dr. Nilipour.
+This repository contains solutions to the assignments, theoritical exercises, course slides, and other useful resources for the CE456: Game Theory course at Sharif University of Technology, Spring 2024, taught by Dr. Nilipour.
 
 ## Table of Contents
 
@@ -19,6 +19,7 @@ This repository contains solutions to the assignments, practical exercises, cour
 ## Assignments
 
 In the "Assignment" folder, you will find the solutions to the three practical and theoretical assignments given during the course.
+
 ## Practice
 
 The "Practice" folder contains the solutions to the theoretical exercises that were given during the course.
