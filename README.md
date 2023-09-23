@@ -12,6 +12,7 @@ This repository contains solutions to the assignments, theoretical exercises, co
 - [Assignments](#assignments)
 - [Practice](#practice)
 - [Slides](#slides)
+- [Presentation](#presentation)
 - [Source](#source)
 - [Session 25 Review](#session-25-review)
 - [Maintainer](#Maintainer)
@@ -27,6 +28,10 @@ The "Practice" folder contains the solutions to the theoretical exercises that w
 ## Slides
 
 The "Slides" folder contains the course slides used by Dr. Nilipour during the lectures.
+
+## Presentation
+
+The "Presentation" folder contains the slides and other contents I used for my presentation.
 
 ## Source
 
