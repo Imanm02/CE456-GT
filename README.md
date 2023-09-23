@@ -31,7 +31,7 @@ The "Slides" folder contains the course slides used by Dr. Nilipour during the l
 
 ## Presentation
 
-The "Presentation" folder contains the slides and other contents I used for my presentation.
+The "Presentation" folder contains the slides I used for my presentation.
 
 ## Source
 
