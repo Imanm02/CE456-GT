@@ -1,4 +1,5 @@
 # CE456-Game-Theory
+Solutions to Dr. Nilipour's CE456: Game Theory (Sharif University of Technology - Spring 2023) Assignments
 
 ![Game Theory Banner](https://github.com/Imanm02/CE456-Game-Theory/raw/main/GameTheory-Background.png)
 
