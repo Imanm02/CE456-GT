@@ -20,7 +20,7 @@ This repository contains solutions to the assignments, theoretical exercises, co
 
 ## Assignments
 
-In the "Assignment" folder, you will find the solutions to the three practical and theoretical assignments given during the course.
+In the "Assignments" folder, you will find the solutions to the three practical and theoretical assignments given during the course.
 
 ## Practice
 
