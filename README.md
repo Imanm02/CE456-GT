@@ -11,7 +11,7 @@ This repository contains solutions to the assignments, theoretical exercises, co
 
 - [Overview](#overview)
 - [Assignments](#assignments)
-- [Practice](#practice)
+- [Practices](#practices)
 - [Slides](#slides)
 - [Presentation](#presentation)
 - [Source](#source)
